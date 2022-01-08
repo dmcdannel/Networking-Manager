@@ -70,7 +70,7 @@ def changeIpConfig(interface):
     else:
         print("Not a valid input, exiting")
         exit()
-#my netplan is blank how da fuq
+#my netplan is blank how
 
     print("made it down here")
 findInterfaces()#returns list
